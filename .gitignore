@@ -1,0 +1,4 @@
+# Project exclude paths
+/common-api/target/
+/login/target/
+/*/target
